@@ -31,20 +31,20 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vakyantra.git
+git clone https://github.com/Lucky-Joshi/Vakyantra.git
 cd vakyantra
 ```
 
 ### 2. Run the Interpreter
 
 ```bash
-python vakyantra.py path/to/file.ved
+python main.py path/to/file.ved
 ```
 
 Or start in REPL mode:
 
 ```bash
-python vakyantra.py
+python main.py
 ```
 
 ---
@@ -69,17 +69,6 @@ python vakyantra.py
 * [ ] Data structures
 * [ ] File import/export
 * [ ] Browser-based runner using Pyodide
-
----
-
-## 📁 File Structure
-
-```
-vakyantra/
-├── vakyantra.py       # Main interpreter script
-├── examples/
-│   └── hello.ved      # Sample Sanskrit code
-```
 
 ---
 
